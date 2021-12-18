@@ -5,6 +5,7 @@ This has been tested and working on Raspberry Pi Pico but should work with any m
 
 # Dirver documentation
 (Adapted from https://github.com/shaoziyang/microbit-lib/blob/master/misc/DS1302/README.md)
+
 (Adapted from https://github.com/omarbenhamid/micropython-ds1302-rtc)
 
 DS1302 is real-time clock (RTC) with serial interface, 31 * 8 data ram.
